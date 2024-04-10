@@ -37,3 +37,5 @@ class ExamResultChecker {
   $examChecker = new ExamResultChecker($examScoreList);
   $examChecker->checkResults();
   $examChecker->displayResults();
+?>
+
